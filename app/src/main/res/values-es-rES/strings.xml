@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSApplication</string>
+    <string name="age" translatable="false">Edad</string>
+    <string name="terminer" translatable="false">Acabado</string>
+    <string name="user_lastName" translatable="false">Apellido</string>
+    <string name="city" translatable="false">Ciudad</string>
+    <string name="informations" translatable="false">Noticias</string>
+    <string name="nom" translatable="false">Nombre</string>
+    <string name="Liste" translatable="false">Lista de direccion</string>
+    <string name="parametres">Configuraciones</string>
+    <string name="Accueil">Bienvenida</string>
+    <string name="maps">Mapa</string>
+</resources>

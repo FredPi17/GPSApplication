@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GPSApplication</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="parametres">Paramètres</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="terminer" translatable="false">Terminer</string>
+    <string name="user_lastName" translatable="false">Nom de famille</string>
+    <string name="city" translatable="false">Ville</string>
+    <string name="informations" translatable="false">Informations</string>
+    <string name="nom" translatable="false">Prénom</string>
+    <string name="Liste" translatable="false">Liste adresses</string>
+    <string name="Accueil">Accueil</string>
+    <string name="maps">Carte</string>
+</resources>

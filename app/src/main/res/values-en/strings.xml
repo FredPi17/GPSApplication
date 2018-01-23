@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSApplication</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="terminer" translatable="false">Finish</string>
+    <string name="user_lastName" translatable="false">Last Name</string>
+    <string name="city" translatable="false">City</string>
+    <string name="informations" translatable="false">Informations</string>
+    <string name="nom" translatable="false">Name</string>
+    <string name="Liste" translatable="false">Adress list</string>
+    <string name="parametres">Settings</string>
+    <string name="Accueil">Home</string>
+    <string name="maps">Maps</string>
+</resources>
